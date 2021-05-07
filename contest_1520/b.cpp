@@ -25,6 +25,7 @@ int controlNumber(int a)
 int main(int argc, char const *argv[])
 {
 	int t, n, temp;
+	int 
 	scanf("%d", &t);
 
 
