@@ -9,7 +9,7 @@ int main()
     scanf("%d", &t);
 
     for (int i = 1; i <= t; i++)
-    {
+    { 
         scanf("%lld", &a);
         scanf("%lld", &b);
 
